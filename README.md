@@ -1,0 +1,1 @@
+![result](results/groundtruth.png)
